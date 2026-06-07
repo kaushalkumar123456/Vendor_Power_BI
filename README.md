@@ -1,7 +1,7 @@
 # 🌍 Vendor Intelligence & Procurement Analytics Dashboard
 
 <p align="center">
-  <img src="images/vendor-dashboard-overview.png" alt="Vendor Intelligence Dashboard" width="100%">
+  <img src="images/1.png" alt="Vendor Intelligence Dashboard" width="100%">
 </p>
 
 <p align="center">
